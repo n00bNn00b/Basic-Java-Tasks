@@ -14,9 +14,9 @@ public class Looping {
     void lab()
     {
         int i;
-        for (i=3; i<=10; i=i+5)
+        for (i=1; i<=10; i++)
         {
-            System.out.println("EUB");
+            System.out.println(i);
         }
     }
 }
